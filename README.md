@@ -35,12 +35,12 @@
 
 
 <br><br><br>
-<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshkk&" alt="nimeshkk" /></p>
+<center> <p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshkk&" alt="nimeshkk" /></p> </center>
 
 
-<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nimeshkk&show_icons=true&locale=en" alt="nimeshkk" /></p>
+<!-- <p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nimeshkk&show_icons=true&locale=en" alt="nimeshkk" /></p>
 <br><br>
-<p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshkk&show_icons=true&locale=en&layout=compact" alt="nimeshkk" /></p>
+<p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshkk&show_icons=true&locale=en&layout=compact" alt="nimeshkk" /></p> -->
 
 
 
