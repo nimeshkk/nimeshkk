@@ -35,7 +35,7 @@
 
 
 <br><br><br>
-<center> <p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshkk&" alt="nimeshkk" /></p> </center>
+<p align="center"><img align="center" width="650" src="https://github-readme-streak-stats.herokuapp.com/?user=nimeshkk&" alt="nimeshkk" /><p/>
 
 
 <!-- <p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nimeshkk&show_icons=true&locale=en" alt="nimeshkk" /></p>
