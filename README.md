@@ -41,7 +41,9 @@
 <!-- <p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=nimeshkk&show_icons=true&locale=en" alt="nimeshkk" /></p>
 <br><br>
 <p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimeshkk&show_icons=true&locale=en&layout=compact" alt="nimeshkk" /></p> -->
+<br><br>
 
+[![An image of @nimeshkk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimeshkk)](https://holopin.io/@nimeshkk)
 
 
 
