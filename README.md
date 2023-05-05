@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/nimeshkavinda99" target="blank"><img src="https://img.shields.io/twitter/follow/nimeshkavinda99?logo=twitter&style=for-the-badge" alt="nimeshkavinda99" /></a> </p>
 <img align="right" alt="coding" width="500" height="320" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🔭 I’m currently working on **DEA**
+<!-- - 🔭 I’m currently working on **DEA**
 
 - 🌱 I’m currently learning **Python**
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [📄](📄)
 
-- ⚡ Fun fact **⚡**
+- ⚡ Fun fact **⚡** -->
 
 
 <h3 align="left">Connect with me:</h3>
