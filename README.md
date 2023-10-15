@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nimesh Kavinda</h1>
-<h3 align="center">Frontend Developer</h3>
-
-
 
 
 
@@ -43,6 +40,7 @@
 <br>
 
 [![An image of @nimeshkk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimeshkk)](https://holopin.io/@nimeshkk)
+[![An image of @nimeshkk5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimeshkk5)](https://holopin.io/@nimeshkk5)
 
 
 
